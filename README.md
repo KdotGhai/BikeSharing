@@ -11,11 +11,11 @@ This project will use a dataset on cityBike in New York City that will help crea
 ### Checkout Times for Users
 Nearly all bikes are checked out for less than an hour at a time, with most rides lasting about 5 minutes.
 
-![check times users](images/Checkout Times for Users.png)
+![check times users](https://github.com/KdotGhai/BikeSharing/blob/ec1b87a2e5a984f64860c12c64bc3a67230a77be/images/Checkout%20Times%20for%20Users.png)
 ### Checkout Times by Gender
 A majority of bikes are checked out by male riders.
 
-![checkout gender](images/Checkout Times by Gender.png)
+![checkout gender](https://github.com/KdotGhai/BikeSharing/blob/ec1b87a2e5a984f64860c12c64bc3a67230a77be/images/Checkout%20Times%20by%20Gender.png)
 ### Trips by Weekday for Each Hour
 Rides tend to increase during weekday commuting hours (6am-9am and 4pm-7pm), and midday during weekends.
 
