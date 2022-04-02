@@ -28,9 +28,11 @@ Male and female riders share similar trends when checking out bikes based on day
 Male subscribers represent the greatest rider demographic regardless of the day of the week.
 
 ![User Trips by Gender](https://github.com/KdotGhai/BikeSharing/blob/6e4e45a4295f7d94edb3fd675f4d46f8e4e7a84d/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+<br>____________________________________________________________________________________________________________________________________________________________
 ### Top Starting Locations
 Most bikes are checked out in the downtown most populated/busy areas.
-
+![Start & End Locations]()
 
 ## Summary
 Viewing the above visualizations, we find: 
